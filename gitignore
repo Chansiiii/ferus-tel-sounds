@@ -1,0 +1,4 @@
+# Ignore all files except .mp3
+*
+!.gitignore
+!/*.mp3
